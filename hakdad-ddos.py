@@ -40,9 +40,9 @@ os.system("toilet -f big ' hakdad ddos' -F gay | lolcat")
 print ("                                                     --version 1.0")
 os.system("figlet /\/\/\/\/\/\/\/\/\/\/\/\/\/////////////////")
 print
-print (" Author NAME      :   VAMSI")
-print (" YOUTUBE CHANNEL  :   HAKDAD")
-print (" INSTAGRAM ID     :   Mr_kali_hacker")
+print (" Author NAME      :   ICOLI")
+print (" YOUTUBE CHANNEL  :   ICOLIBADAS")
+print (" INSTAGRAM ID     :   R.C.C")
 print
 ip = raw_input("\033[94m[*] \033[91mPLEASE \033[91mENTER THE IP ADDRESS (or) Hostname of Target : \033[97m>>> \033[93m")
 port = input("\033[94m[*] \033[91mPLEASE \033[91mENTER THE PORT                                 : \033[97m>>> \033[93m")
